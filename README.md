@@ -1,3 +1,5 @@
+### The results of the documentation of the mini course study case work at RevoU, details can be checked in each folder in this repository
+
 Case Study | Description | Link
 --- | --- | ---
 Amazon Prime Video    | Analyze Data About the Amazon Prime Video App Using Spreadsheets and Looker Data Studio | [Report]()
