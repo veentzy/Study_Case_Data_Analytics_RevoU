@@ -1,4 +1,6 @@
-### The results of the documentation of the mini course study case work at RevoU, details can be checked in each folder in this repository
+### The results of the data analytics mini course documentation case studies at RevoU
+
+The details can be checked in the respective folders in this repository
 
 Case Study | Description | Link
 --- | --- | ---
