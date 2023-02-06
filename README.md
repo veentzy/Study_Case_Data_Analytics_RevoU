@@ -1,6 +1,6 @@
 # Study Case (The Look E-Commerce)
 
-Documentation of a case study on bigquery data called TheLook E-Commerce. I did this case study while attending the Mini Course at RevoU. In the case study, there are 4 tables that can be analyzed.
+Documentation of a case study on bigquery data called The Look E-Commerce. I did this case study while attending the Mini Course at RevoU. In the case study, there are 4 tables that can be analyzed.
 
 1. Users table : records all personal detail of customers.
 2. Orders table : records all the orders placed by the customer.
