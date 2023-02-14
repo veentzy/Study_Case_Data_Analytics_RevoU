@@ -4,7 +4,7 @@ The details can be checked in the respective folders in this repository
 
 Case Study | Description | Link
 --- | --- | ---
-Amazon Prime Video    | Analyze Data About the Amazon Prime Video App Using Spreadsheets and Looker Data Studio | [Report]()
+Amazon Prime Video    | Analyze Data About the Amazon Prime Video App Using Spreadsheets and Looker Data Studio | [Report](https://lookerstudio.google.com/u/0/reporting/a07bc351-6a88-4834-a841-31676c10975e/page/DecCD)
 Game Sales   | Analyze Data About Game Sales Using Spreadsheet, Python and Google Colaboratory | [Report]()
 Hospital & Health Insurance in Cities in West Java | Analyze Data About Hospital & Health Insurance in Cities in West Java Using Spreadsheet and Tableau Public| [Report]()
 Netflix    | Analyze Data About the Netflix App Using Spreadsheets and Looker Data Studio | [Report]()
